@@ -1,0 +1,3 @@
+Włączono ogrzewanie
+Wyłączono ogrzewanie i chłodzenie
+Włączono chłodzenie
